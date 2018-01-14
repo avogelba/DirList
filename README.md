@@ -1,4 +1,8 @@
 # DirList
+[![version](https://img.shields.io/badge/version-v1.0.0-blue.svg)](https://github.com/avogelba/DirList/releases)
+![build](https://img.shields.io/badge/build-passed-green.svg)
+[![license](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/avogelba/DirList/blob/master/LICENSE)
+
 Small tool I quickly wrote to get all directories of my external hard disk. Mainly a better ```DIR /S /B /AD``` output.
 
 # Steps
