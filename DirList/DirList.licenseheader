@@ -1,0 +1,40 @@
+﻿extensions: designer.cs generated.cs
+extensions: .cs .cpp .h
+#region copyright
+
+// <copyright file="%FileName%" project="%Project%">
+// Copyright (c) %CurrentYear% All Rights Reserved
+// </copyright>
+// <author>Andreas Vogelbacher</author>
+// <date>%CurrentYear%</date>
+// <summary></summary>
+
+#endregion
+
+
+extensions: .aspx .ascx
+
+<%-- 
+Sample license text.
+--%>
+
+
+extensions: .vb
+
+'Sample license text.
+
+
+extensions:  .xml .config .xsd
+
+<!--
+***********************************************************************
+Copyright (c) %CurrentYear% All Rights Reserved
+project: "%Project%"
+file:	 "%FileName%"
+author:	 Andreas Vogelbacher
+date:    %CurrentYear%
+***********************************************************************
+summary:
+***********************************************************************
+***********************************************************************
+-->
